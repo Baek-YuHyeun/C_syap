@@ -1,0 +1,10 @@
+C:\C#\SemiProject\AccountBook\AccountBook\bin\Debug\AccountBook.exe.config
+C:\C#\SemiProject\AccountBook\AccountBook\bin\Debug\AccountBook.exe
+C:\C#\SemiProject\AccountBook\AccountBook\bin\Debug\AccountBook.pdb
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.fMain.resources
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.Properties.Resources.resources
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.GenerateResource.cache
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.csproj.CoreCompileInputs.cache
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.exe
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+C:\C#\SemiProject\AccountBook\AccountBook\obj\Debug\AccountBook.csprojAssemblyReference.cache
