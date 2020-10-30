@@ -1,0 +1,10 @@
+C:\C#\WinApp4\WinApp4\bin\Debug\WinApp4.exe.config
+C:\C#\WinApp4\WinApp4\bin\Debug\WinApp4.exe
+C:\C#\WinApp4\WinApp4\bin\Debug\WinApp4.pdb
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.csprojAssemblyReference.cache
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.Properties.Resources.resources
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.csproj.GenerateResource.cache
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.csproj.CoreCompileInputs.cache
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.exe
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.pdb
+C:\C#\WinApp4\WinApp4\obj\Debug\WinApp4.frmServer.resources

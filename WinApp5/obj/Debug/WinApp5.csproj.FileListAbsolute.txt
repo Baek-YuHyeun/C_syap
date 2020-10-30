@@ -1,0 +1,10 @@
+C:\C#\WinApp5\bin\Debug\WinApp5.exe.config
+C:\C#\WinApp5\bin\Debug\WinApp5.exe
+C:\C#\WinApp5\bin\Debug\WinApp5.pdb
+C:\C#\WinApp5\obj\Debug\WinApp5.frmClient.resources
+C:\C#\WinApp5\obj\Debug\WinApp5.Properties.Resources.resources
+C:\C#\WinApp5\obj\Debug\WinApp5.csproj.GenerateResource.cache
+C:\C#\WinApp5\obj\Debug\WinApp5.csproj.CoreCompileInputs.cache
+C:\C#\WinApp5\obj\Debug\WinApp5.exe
+C:\C#\WinApp5\obj\Debug\WinApp5.pdb
+C:\C#\WinApp5\obj\Debug\WinApp5.csprojAssemblyReference.cache
